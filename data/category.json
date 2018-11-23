@@ -1,0 +1,42 @@
+[
+    {
+        "TagID": "1",
+        "FieldName": "Column",
+        "TypeName": "篮球"
+    },
+    {
+        "TagID": "2",
+        "FieldName": "Column",
+        "TypeName": "足球"
+    },
+    {
+        "TagID": "515",
+        "FieldName": "Column",
+        "TypeName": "冰球"
+    },
+    {
+        "TagID": "516",
+        "FieldName": "Column",
+        "TypeName": "棒球"
+    },
+    {
+        "TagID": "517",
+        "FieldName": "Column",
+        "TypeName": "橄榄球"
+    },
+    {
+        "TagID": "767",
+        "FieldName": "Column",
+        "TypeName": "美漫 / 影视"
+    },
+    {
+        "TagID": "667",
+        "FieldName": "Column",
+        "TypeName": "万智牌"
+    },
+    {
+        "TagID": "519",
+        "FieldName": "Column",
+        "TypeName": "其他"
+    }
+]

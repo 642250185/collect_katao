@@ -1,0 +1,1 @@
+console.info('你好，node.js');
